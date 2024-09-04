@@ -1,5 +1,5 @@
 Pet Adoption API
-https://service-pet-adoption.onrender.com
+https://pet-haven.onrender.com
 
 Overview
 
@@ -19,7 +19,7 @@ Getting Started
     Clone the repository:
    
 
-    git clone https://github.com/Marciohenr1que/service-pet-adoption.git
+   https://github.com/EsdrasMarcelinoDaSilva/Pet_Haven.git
 
    
 
